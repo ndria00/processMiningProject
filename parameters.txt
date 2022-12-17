@@ -1,0 +1,10 @@
+Inductive visual miner --> activities 1, ppaths 0.8
+
+
+CONFORMANCE ANALYSIS
+ move on log + model 2567
+ move model only 150 --> because we have 3 silent transitions and 50 traces
+ move log only 0
+ traces 50
+ unreliable traces 0
+ 
