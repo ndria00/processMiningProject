@@ -7,4 +7,40 @@ CONFORMANCE ANALYSIS
  move log only 0
  traces 50
  unreliable traces 0
+fitness 1.0
  
+INDUCTIVE VISUAL MINER ON XES-B
+
+activities 1, paths 0.8
+
+CONFORMANCE ANALYSIS F-XES-A PN-B
+ move on log + model 2517
+ move model only 1476 --> because we have many silent transitions and 50 traces
+ move log only 50
+ traces 50
+ unreliable traces 0
+0.96
+We can say that the fit is very good because we are comparing a slightly modified log on a descriptive petri net obtained from a log generated from
+a normative petri net
+
+
+CONFORMANCE ANALYSIS XES-B  PN-A
+ move on log + model 2933
+ move model only 174 --> because we have many silent transitions and 50 traces
+ move log only 8
+ traces 50
+ unreliable traces 0
+fitness 0.64
+Here the fit is very bad because
+
+
+CONFORMANCE ANALYSIS XES-B  PN-B
+ move on log + model 2933
+ move model only 1779 --> because we have many silent transitions and 50 traces
+ move log only 8
+ traces 50
+ unreliable traces 0
+fitness 0.99
+Here the fit is very good except for those traces that have been cut by the professor... Something live 3-4
+
+

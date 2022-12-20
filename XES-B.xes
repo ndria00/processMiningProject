@@ -353,6 +353,13 @@
 		<string key="concept:name" value="41"/>
 		<string key="LogType" value="MXML.EnactmentLog"/>
 		<event>
+			<string key="elementId" value="StartEvent_0ckyvch"/>
+			<string key="concept:name" value="teaching activity assigned"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="processId" value="Process_1pgml2g"/>
+			<date key="time:timestamp" value="2022-12-21T12:59:51.955+01:00"/>
+		</event>
+		<event>
 			<string key="elementId" value="Activity_0dp1dgh"/>
 			<string key="resourceId" value="Lane_0xipe8x"/>
 			<string key="org:resource" value="Professor-000001"/>
@@ -381,16 +388,6 @@
 			<string key="processId" value="Process_1pgml2g"/>
 			<string key="lifecycle:transition" value="complete"/>
 			<date key="time:timestamp" value="2022-12-21T13:00:17.160+01:00"/>
-		</event>
-		<event>
-			<string key="elementId" value="Activity_09myjy5"/>
-			<string key="resourceId" value="Lane_0xipe8x"/>
-			<string key="org:resource" value="Professor-000001"/>
-			<string key="resourceCost" value="0.035325"/>
-			<string key="concept:name" value="prepare lab lectures"/>
-			<string key="processId" value="Process_1pgml2g"/>
-			<string key="lifecycle:transition" value="complete"/>
-			<date key="time:timestamp" value="2022-12-21T13:00:25.638+01:00"/>
 		</event>
 		<event>
 			<string key="elementId" value="Activity_05joqm6"/>
@@ -562,13 +559,6 @@
 		<string key="concept:name" value="25"/>
 		<string key="LogType" value="MXML.EnactmentLog"/>
 		<event>
-			<string key="elementId" value="StartEvent_0ckyvch"/>
-			<string key="concept:name" value="teaching activity assigned"/>
-			<string key="lifecycle:transition" value="complete"/>
-			<string key="processId" value="Process_1pgml2g"/>
-			<date key="time:timestamp" value="2022-12-13T13:00:27.615+01:00"/>
-		</event>
-		<event>
 			<string key="elementId" value="Activity_1q1l9of"/>
 			<string key="resourceId" value="Lane_0xipe8x"/>
 			<string key="org:resource" value="Professor-000001"/>
@@ -730,6 +720,16 @@
 			<date key="time:timestamp" value="2022-12-13T13:16:15.952+01:00"/>
 		</event>
 		<event>
+			<string key="elementId" value="Activity_1ijhrv3"/>
+			<string key="resourceId" value="Lane_0xipe8x"/>
+			<string key="org:resource" value="Professor-000001"/>
+			<string key="resourceCost" value="0.023291666666666665"/>
+			<string key="concept:name" value="do theoretical lectures"/>
+			<string key="processId" value="Process_1pgml2g"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2022-12-13T13:16:21.542+01:00"/>
+		</event>
+		<event>
 			<string key="elementId" value="Activity_0iyipuc"/>
 			<string key="resourceId" value="Lane_0xipe8x"/>
 			<string key="org:resource" value="Professor-000001"/>
@@ -849,6 +849,16 @@
 			<string key="lifecycle:transition" value="complete"/>
 			<string key="processId" value="Process_1pgml2g"/>
 			<date key="time:timestamp" value="2022-12-13T13:17:02.810+01:00"/>
+		</event>
+		<event>
+			<string key="elementId" value="Activity_0ct8zpo"/>
+			<string key="resourceId" value="Lane_0xipe8x"/>
+			<string key="org:resource" value="Professor-000001"/>
+			<string key="resourceCost" value="0.010625"/>
+			<string key="concept:name" value="evaluate results"/>
+			<string key="processId" value="Process_1pgml2g"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2022-12-13T13:17:05.360+01:00"/>
 		</event>
 		<event>
 			<string key="elementId" value="Activity_1ijhrv3"/>
@@ -982,16 +992,6 @@
 			<date key="time:timestamp" value="2022-12-13T13:17:48.686+01:00"/>
 		</event>
 		<event>
-			<string key="elementId" value="Activity_0ct8zpo"/>
-			<string key="resourceId" value="Lane_0xipe8x"/>
-			<string key="org:resource" value="Professor-000001"/>
-			<string key="resourceCost" value="0.014433333333333333"/>
-			<string key="concept:name" value="evaluate results"/>
-			<string key="processId" value="Process_1pgml2g"/>
-			<string key="lifecycle:transition" value="complete"/>
-			<date key="time:timestamp" value="2022-12-13T13:17:52.150+01:00"/>
-		</event>
-		<event>
 			<string key="elementId" value="Activity_1ijhrv3"/>
 			<string key="resourceId" value="Lane_0xipe8x"/>
 			<string key="org:resource" value="Professor-000001"/>
@@ -1096,13 +1096,6 @@
 			<date key="time:timestamp" value="2022-12-13T13:18:26.005+01:00"/>
 		</event>
 		<event>
-			<string key="elementId" value="Event_1dztnn3"/>
-			<string key="concept:name" value="feedback received"/>
-			<string key="lifecycle:transition" value="complete"/>
-			<string key="processId" value="Process_1pgml2g"/>
-			<date key="time:timestamp" value="2022-12-13T13:18:29.005+01:00"/>
-		</event>
-		<event>
 			<string key="elementId" value="Activity_0n6kkq5"/>
 			<string key="resourceId" value="Lane_0xipe8x"/>
 			<string key="org:resource" value="Professor-000001"/>
@@ -1123,13 +1116,6 @@
 	<trace>
 		<string key="concept:name" value="47"/>
 		<string key="LogType" value="MXML.EnactmentLog"/>
-		<event>
-			<string key="elementId" value="StartEvent_0ckyvch"/>
-			<string key="concept:name" value="teaching activity assigned"/>
-			<string key="lifecycle:transition" value="complete"/>
-			<string key="processId" value="Process_1pgml2g"/>
-			<date key="time:timestamp" value="2022-12-23T15:01:13.289+01:00"/>
-		</event>
 		<event>
 			<string key="elementId" value="Activity_0dp1dgh"/>
 			<string key="resourceId" value="Lane_0xipe8x"/>
@@ -1292,16 +1278,6 @@
 			<date key="time:timestamp" value="2022-12-23T15:14:41.127+01:00"/>
 		</event>
 		<event>
-			<string key="elementId" value="Activity_0ct8zpo"/>
-			<string key="resourceId" value="Lane_0xipe8x"/>
-			<string key="org:resource" value="Professor-000001"/>
-			<string key="resourceCost" value="0.009658333333333335"/>
-			<string key="concept:name" value="evaluate results"/>
-			<string key="processId" value="Process_1pgml2g"/>
-			<string key="lifecycle:transition" value="complete"/>
-			<date key="time:timestamp" value="2022-12-23T15:14:43.445+01:00"/>
-		</event>
-		<event>
 			<string key="elementId" value="Activity_1ijhrv3"/>
 			<string key="resourceId" value="Lane_0xipe8x"/>
 			<string key="org:resource" value="Professor-000001"/>
@@ -1367,16 +1343,6 @@
 			<string key="processId" value="Process_1pgml2g"/>
 			<string key="lifecycle:transition" value="complete"/>
 			<date key="time:timestamp" value="2022-12-23T15:15:06.016+01:00"/>
-		</event>
-		<event>
-			<string key="elementId" value="Activity_1vwi4lq"/>
-			<string key="resourceId" value="Lane_0xipe8x"/>
-			<string key="org:resource" value="Professor-000001"/>
-			<string key="resourceCost" value="0.0125"/>
-			<string key="concept:name" value="submit intermediate test"/>
-			<string key="processId" value="Process_1pgml2g"/>
-			<string key="lifecycle:transition" value="complete"/>
-			<date key="time:timestamp" value="2022-12-23T15:15:09.016+01:00"/>
 		</event>
 		<event>
 			<string key="elementId" value="Event_0ygo8qn"/>
@@ -1535,16 +1501,6 @@
 			<date key="time:timestamp" value="2022-12-13T16:00:29.437+01:00"/>
 		</event>
 		<event>
-			<string key="elementId" value="Activity_0dp1dgh"/>
-			<string key="resourceId" value="Lane_0xipe8x"/>
-			<string key="org:resource" value="Professor-000001"/>
-			<string key="resourceCost" value="0.03462083333333333"/>
-			<string key="concept:name" value="define program"/>
-			<string key="processId" value="Process_1pgml2g"/>
-			<string key="lifecycle:transition" value="complete"/>
-			<date key="time:timestamp" value="2022-12-13T16:00:37.746+01:00"/>
-		</event>
-		<event>
 			<string key="elementId" value="Activity_1q1l9of"/>
 			<string key="resourceId" value="Lane_0xipe8x"/>
 			<string key="org:resource" value="Professor-000001"/>
@@ -1620,13 +1576,6 @@
 			<string key="processId" value="Process_1pgml2g"/>
 			<string key="lifecycle:transition" value="complete"/>
 			<date key="time:timestamp" value="2022-12-13T16:14:11.916+01:00"/>
-		</event>
-		<event>
-			<string key="elementId" value="Event_0840nyh"/>
-			<string key="concept:name" value="lectures start"/>
-			<string key="lifecycle:transition" value="complete"/>
-			<string key="processId" value="Process_1pgml2g"/>
-			<date key="time:timestamp" value="2022-12-13T16:14:13.593+01:00"/>
 		</event>
 		<event>
 			<string key="elementId" value="Activity_1ijhrv3"/>
@@ -1721,6 +1670,13 @@
 			<string key="processId" value="Process_1pgml2g"/>
 			<string key="lifecycle:transition" value="complete"/>
 			<date key="time:timestamp" value="2022-12-13T16:14:39.964+01:00"/>
+		</event>
+		<event>
+			<string key="elementId" value="Event_0ygo8qn"/>
+			<string key="concept:name" value="test terminated"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="processId" value="Process_1pgml2g"/>
+			<date key="time:timestamp" value="2022-12-13T16:14:40.895+01:00"/>
 		</event>
 		<event>
 			<string key="elementId" value="Activity_1ijhrv3"/>
@@ -1948,16 +1904,6 @@
 			<date key="time:timestamp" value="2022-12-13T16:15:56.865+01:00"/>
 		</event>
 		<event>
-			<string key="elementId" value="Activity_0ct8zpo"/>
-			<string key="resourceId" value="Lane_0xipe8x"/>
-			<string key="org:resource" value="Professor-000001"/>
-			<string key="resourceCost" value="0.012583333333333332"/>
-			<string key="concept:name" value="evaluate results"/>
-			<string key="processId" value="Process_1pgml2g"/>
-			<string key="lifecycle:transition" value="complete"/>
-			<date key="time:timestamp" value="2022-12-13T16:15:59.885+01:00"/>
-		</event>
-		<event>
 			<string key="elementId" value="Activity_1ijhrv3"/>
 			<string key="resourceId" value="Lane_0xipe8x"/>
 			<string key="org:resource" value="Professor-000001"/>
@@ -2183,6 +2129,16 @@
 			<date key="time:timestamp" value="2022-12-13T16:17:10.429+01:00"/>
 		</event>
 		<event>
+			<string key="elementId" value="Activity_0ct8zpo"/>
+			<string key="resourceId" value="Lane_0xipe8x"/>
+			<string key="org:resource" value="Professor-000001"/>
+			<string key="resourceCost" value="0.011487500000000001"/>
+			<string key="concept:name" value="evaluate results"/>
+			<string key="processId" value="Process_1pgml2g"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2022-12-13T16:17:13.186+01:00"/>
+		</event>
+		<event>
 			<string key="elementId" value="Activity_1ijhrv3"/>
 			<string key="resourceId" value="Lane_0xipe8x"/>
 			<string key="org:resource" value="Professor-000001"/>
@@ -2295,16 +2251,6 @@
 			<string key="processId" value="Process_1pgml2g"/>
 			<string key="lifecycle:transition" value="complete"/>
 			<date key="time:timestamp" value="2022-12-13T16:17:49.199+01:00"/>
-		</event>
-		<event>
-			<string key="elementId" value="Activity_1vwi4lq"/>
-			<string key="resourceId" value="Lane_0xipe8x"/>
-			<string key="org:resource" value="Professor-000001"/>
-			<string key="resourceCost" value="0.0125"/>
-			<string key="concept:name" value="submit intermediate test"/>
-			<string key="processId" value="Process_1pgml2g"/>
-			<string key="lifecycle:transition" value="complete"/>
-			<date key="time:timestamp" value="2022-12-13T16:17:52.199+01:00"/>
 		</event>
 		<event>
 			<string key="elementId" value="Event_0ygo8qn"/>
@@ -2464,6 +2410,16 @@
 			<string key="processId" value="Process_1pgml2g"/>
 			<string key="lifecycle:transition" value="complete"/>
 			<date key="time:timestamp" value="2022-12-26T10:09:21.211+01:00"/>
+		</event>
+		<event>
+			<string key="elementId" value="Activity_15i04br"/>
+			<string key="resourceId" value="Lane_0xipe8x"/>
+			<string key="org:resource" value="Professor-000001"/>
+			<string key="resourceCost" value="0.0125"/>
+			<string key="concept:name" value="do pilot lecture"/>
+			<string key="processId" value="Process_1pgml2g"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2022-12-26T10:09:23.880+01:00"/>
 		</event>
 		<event>
 			<string key="elementId" value="Activity_0iyipuc"/>
@@ -2894,6 +2850,16 @@
 			<string key="lifecycle:transition" value="complete"/>
 			<string key="processId" value="Process_1pgml2g"/>
 			<date key="time:timestamp" value="2022-12-26T10:11:35.255+01:00"/>
+		</event>
+		<event>
+			<string key="elementId" value="Activity_0n6kkq5"/>
+			<string key="resourceId" value="Lane_0xipe8x"/>
+			<string key="org:resource" value="Professor-000001"/>
+			<string key="resourceCost" value="0.4170416666666667"/>
+			<string key="concept:name" value="final evaluation"/>
+			<string key="processId" value="Process_1pgml2g"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2022-12-26T10:13:12.345+01:00"/>
 		</event>
 	</trace>
 	<trace>
@@ -3376,13 +3342,6 @@
 			<string key="processId" value="Process_1pgml2g"/>
 			<date key="time:timestamp" value="2022-12-26T13:19:56.764+01:00"/>
 		</event>
-		<event>
-			<string key="elementId" value="Event_0dk9w1l"/>
-			<string key="concept:name" value="Course terminated"/>
-			<string key="lifecycle:transition" value="complete"/>
-			<string key="processId" value="Process_1pgml2g"/>
-			<date key="time:timestamp" value="2022-12-26T13:20:57.906+01:00"/>
-		</event>
 	</trace>
 	<trace>
 		<string key="concept:name" value="27"/>
@@ -3556,16 +3515,6 @@
 			<date key="time:timestamp" value="2022-12-14T11:22:12.665+01:00"/>
 		</event>
 		<event>
-			<string key="elementId" value="Activity_0ct8zpo"/>
-			<string key="resourceId" value="Lane_0xipe8x"/>
-			<string key="org:resource" value="Professor-000001"/>
-			<string key="resourceCost" value="0.013949999999999999"/>
-			<string key="concept:name" value="evaluate results"/>
-			<string key="processId" value="Process_1pgml2g"/>
-			<string key="lifecycle:transition" value="complete"/>
-			<date key="time:timestamp" value="2022-12-14T11:22:16.013+01:00"/>
-		</event>
-		<event>
 			<string key="elementId" value="Activity_1ijhrv3"/>
 			<string key="resourceId" value="Lane_0xipe8x"/>
 			<string key="org:resource" value="Professor-000001"/>
@@ -3678,16 +3627,6 @@
 			<string key="processId" value="Process_1pgml2g"/>
 			<string key="lifecycle:transition" value="complete"/>
 			<date key="time:timestamp" value="2022-12-14T11:22:50.834+01:00"/>
-		</event>
-		<event>
-			<string key="elementId" value="Activity_1vwi4lq"/>
-			<string key="resourceId" value="Lane_0xipe8x"/>
-			<string key="org:resource" value="Professor-000001"/>
-			<string key="resourceCost" value="0.0125"/>
-			<string key="concept:name" value="submit intermediate test"/>
-			<string key="processId" value="Process_1pgml2g"/>
-			<string key="lifecycle:transition" value="complete"/>
-			<date key="time:timestamp" value="2022-12-14T11:22:53.834+01:00"/>
 		</event>
 		<event>
 			<string key="elementId" value="Event_0ygo8qn"/>
